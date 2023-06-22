@@ -15,8 +15,8 @@ public class Player {
     public Player() {
         this.healthPoints = 100;
         this.gold = 0;
-        this.xPosition = 5;
-        this.yPosition = 5;
+        this.xPosition = 7;
+        this.yPosition = 7;
         this.heldWeapon = new Weapon("Fists", 2);
     }
 
